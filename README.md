@@ -2,9 +2,9 @@
 
 Default Shapes Color = White <br>
 When A key pressed = Shapes Turn Colored <br>
-When S key pressed = Shapes Turn White
-When D key pressed = Shapes Turn To Lines
-Right Click = Make Points in current coordinat
+When S key pressed = Shapes Turn White <br>
+When D key pressed = Shapes Turn To Lines <br>
+Right Click = Make Points in current coordinat <br>
 
 
 IDE : Codeblock 20.03 MinGW OS : Windows 10 1909 Library : Freeglut dan Glut
