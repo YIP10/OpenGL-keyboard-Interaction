@@ -1,7 +1,7 @@
 # OpenGL-keyboard-Interaction
 
-Default Shapes Color = White
-When A key pressed = Shapes Turn Colored
+Default Shapes Color = White <br>
+When A key pressed = Shapes Turn Colored <br>
 When S key pressed = Shapes Turn White
 When D key pressed = Shapes Turn To Lines
 Right Click = Make Points in current coordinat
